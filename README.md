@@ -1,4 +1,4 @@
-# Temperature-Coverter-Website
+# Temperature-Converter-Website
 
 The Temperature Conversion Web App is a simple yet powerful tool that allows users to convert temperatures from Fahrenheit to Celsius or vice versa. The app includes four main elements: an input field, a dropdown menu or radio button, a convert button, and a display area.
 
